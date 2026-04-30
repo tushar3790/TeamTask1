@@ -32,5 +32,5 @@ Users can create projects, assign tasks, and track progress with a clean dashboa
 
 ## How to Run Locally
 ```bash
-npm install
-npm start
+pnpm install
+pnpm run dev
